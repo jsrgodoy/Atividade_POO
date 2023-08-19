@@ -33,7 +33,7 @@ public class Main {
         break;
       case 4:{
           
-     Mago m1 = new Mago(4, "Presto"); // cria uma instância da classe Mago
+     Mago m1 = new Mago(4, "Presto"); //  cria uma instância da classe Mago
     m1.atuar(0);
         }
         break;
